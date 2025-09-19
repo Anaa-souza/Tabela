@@ -31,5 +31,5 @@ O projeto referencia dois arquivos de estilo (style.css e style2.css) para traba
 
 Estrutura visual clara, destacando colunas e linhas para melhor legibilidade.
 
-#✨ Um projeto simples, mas que demonstra o uso prático de tabelas em HTML e abre espaço para evoluir em interatividade e design!
+## ✨ Um projeto simples, mas que demonstra o uso prático de tabelas em HTML e abre espaço para evoluir em interatividade e design!
 
